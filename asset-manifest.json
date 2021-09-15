@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/framer-motion/static/css/main.4d31d69e.chunk.css",
+    "main.js": "/framer-motion/static/js/main.8cd4cc40.chunk.js",
+    "main.js.map": "/framer-motion/static/js/main.8cd4cc40.chunk.js.map",
+    "runtime-main.js": "/framer-motion/static/js/runtime-main.81508320.js",
+    "runtime-main.js.map": "/framer-motion/static/js/runtime-main.81508320.js.map",
+    "static/js/2.b12a8090.chunk.js": "/framer-motion/static/js/2.b12a8090.chunk.js",
+    "static/js/2.b12a8090.chunk.js.map": "/framer-motion/static/js/2.b12a8090.chunk.js.map",
+    "index.html": "/framer-motion/index.html",
+    "static/css/main.4d31d69e.chunk.css.map": "/framer-motion/static/css/main.4d31d69e.chunk.css.map",
+    "static/js/2.b12a8090.chunk.js.LICENSE.txt": "/framer-motion/static/js/2.b12a8090.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81508320.js",
+    "static/js/2.b12a8090.chunk.js",
+    "static/css/main.4d31d69e.chunk.css",
+    "static/js/main.8cd4cc40.chunk.js"
+  ]
+}
